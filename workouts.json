@@ -2104,6 +2104,188 @@
           ]
         }
       ]
+    },
+    {
+      "id": "2026-10-20",
+      "type": "full",
+      "dow": "TUE",
+      "dnum": "10/20",
+      "title": "Day B — Hinge/Pull + Core",
+      "subtitle": "Tue, Oct 20 · Foundation Phase · Back to the standard Day B template",
+      "difficulty": 7,
+      "minutes": "~50",
+      "load": "Moderate-High",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Deadlift",
+        "Chest-Supported DB Row",
+        "Core Circuit",
+        "EMOM Finisher"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "World's greatest stretch, inchworms, glute bridges, band pull-aparts",
+              "sub": "2 rounds · light effort",
+              "detail": "5 world's greatest stretch per side, 5 inchworms, 10 glute bridges, 15 band pull-aparts. Then ramp into the deadlift: empty bar × 5, about 135 × 3, about 185 × 2 before the working sets."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Deadlift",
+              "sub": "4 sets × 5 reps · Suggested: 225 lbs",
+              "rest": 120,
+              "detail": "Prescribed: 4 sets × 5 reps. Suggested weight: 225 lbs, taken from your last confirmed 4×5 working weight in your project notes (it is not a logged result in workouts.json). This is a hold, not an increase — Foundation is about re-establishing working weights and clean form. Treat the first working set as the check: if it feels unusually heavy, trim 5-10%. Full reset between reps, brace hard before every pull."
+            },
+            {
+              "name": "Chest-Supported Incline DB Row",
+              "sub": "3 sets × 10 reps · Establish working weight",
+              "rest": 75,
+              "detail": "Chest on an incline bench set around 30-45°, rows pulled toward the hips with a pause and squeeze at the top. Rotating in for the usual pull-ups/TRX rows for variety and a lower-back-friendly pull after heavy deadlifts. If you'd rather stay on the methodology default, Pull-Ups or TRX Rows 3 × 8 is the swap. No weight history for this movement, so pick a load that leaves 2 reps in the tank."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8-10 min — Strength + Stability",
+          "items": [
+            {
+              "name": "Ab Wheel Rollouts or Hanging Leg Raises",
+              "sub": "3 sets × 8-10 reps",
+              "rest": 45,
+              "detail": "Ab wheel for the anti-extension challenge (from the knees), hanging leg raises as the alternative. Keep the lower back from arching — stop the rep where it starts to sag."
+            },
+            {
+              "name": "Dead Bugs",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Lower back pressed flat, slow controlled opposite arm/leg extension."
+            },
+            {
+              "name": "Single-Arm Farmer Carry",
+              "sub": "3 sets × 30m/side",
+              "rest": 30,
+              "detail": "Heavy dumbbell or kettlebell, resist leaning to the loaded side. Anti-lateral-flexion strength that carries over to running and cycling posture."
+            }
+          ]
+        },
+        {
+          "label": "EMOM Finisher · 12 min",
+          "items": [
+            {
+              "name": "EMOM: Min 1 wall balls/DB thrusters, Min 2 KB swings, Min 3 rower sprint",
+              "sub": "4 rounds (12 total minutes)",
+              "rest": null,
+              "detail": "Minute 1: 12 wall balls or DB thrusters. Minute 2: 15 KB swings. Minute 3: 30 sec rower sprint, rest the remainder of the minute. Repeat for 4 full rounds. Back on the standard Day B finisher after several weeks of variations. Moderate intensity is still the Foundation target, but the Sept 21 ladder felt too easy — go with a load and sprint pace that makes the last round noticeably harder than the first while every minute still finishes on time."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "90/90 hip stretch, seated hamstring stretch, child's pose with lat reach",
+              "sub": "Hold each 30-45s",
+              "detail": "90/90 hip switch each side, seated hamstring stretch, child's pose reaching both arms to one side then the other to open the lats. Slow nasal breathing until the heart rate settles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22",
+      "type": "full",
+      "dow": "THU",
+      "dnum": "10/22",
+      "title": "Day A — Squat/Press + Core",
+      "subtitle": "Thu, Oct 22 · Foundation Phase · AM lift before PM ride",
+      "difficulty": 7,
+      "minutes": "~50",
+      "load": "Moderate-High",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Back Squat",
+        "Push Press",
+        "Core Circuit",
+        "AMRAP Finisher"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Goblet squat pry, leg swings, shoulder dislocates, empty-bar push press",
+              "sub": "2 rounds · light effort",
+              "detail": "5 goblet squat pries (hold the bottom, push the knees out), 10 leg swings each direction/leg, 10 band or PVC shoulder dislocates, 5 empty-bar push presses. Then ramp into the squat: empty bar × 5, about 135 × 3, about 165 × 2 before the working sets."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Back Squat",
+              "sub": "4 sets × 5 reps · Suggested: 200 lbs",
+              "rest": 120,
+              "detail": "Prescribed: 4 sets × 5 reps. Suggested weight: 200 lbs, taken from your last confirmed 4×5 working weight in your project notes (it is not a logged result in workouts.json; your 5-rep max is 215). This is a hold, not an increase. Full depth, controlled tempo. You're riding later today, so stop short of ugly reps — if the first working set feels heavy, trim 5-10%."
+            },
+            {
+              "name": "Push Press",
+              "sub": "3 sets × 6 reps · Establish working weight",
+              "rest": 90,
+              "detail": "Slight dip and drive from the legs into a clean overhead lockout. Back on the standard Day A press after a few weeks of landmine and DB variations. No push press weight history to build from, so start conservative, add weight across the first two sets only if the bar speed stays crisp, and leave 2 reps in the tank on the last set."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8-10 min — Strength + Burn + Stability",
+          "items": [
+            {
+              "name": "Hollow Hold",
+              "sub": "3 sets × 40-45s",
+              "rest": 20,
+              "detail": "Lower back pressed flat, arms and legs extended. Anti-extension strength that braces the torso for squats and stabilizes the bike position."
+            },
+            {
+              "name": "Pallof Press",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Cable or band, anti-rotation press. Brace the core, resist the pull to rotate — quality over speed."
+            },
+            {
+              "name": "Bicycle Crunches",
+              "sub": "3 sets × 20 reps (10/side)",
+              "rest": 20,
+              "detail": "Elbow to opposite knee with a slow, controlled rotation, exhale on every crunch. Burn/definition focus, swapped in for the bird dog this week."
+            }
+          ]
+        },
+        {
+          "label": "AMRAP Finisher · 12 min",
+          "items": [
+            {
+              "name": "AMRAP: 10 KB swings, 10 box jumps/step-ups, 200m row, 10 push-ups",
+              "sub": "As many rounds as possible in 12 min",
+              "rest": null,
+              "detail": "Standard Day A finisher, taken at the full 12 minutes after the Sept 21 ladder felt too easy. Keep a steady, sustainable pace that holds across every round rather than starting too fast, and count your rounds so the next time you run this you have a number to beat. Step-ups instead of box jumps if the legs are heavy from the squats, since there's a ride this afternoon."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Quad, hip flexor, calf stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Standing quad stretch, kneeling hip flexor stretch, wall calf stretch. Keep the hips loose for this afternoon's ride."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
