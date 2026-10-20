@@ -1,0 +1,2109 @@
+{
+  "version": 1,
+  "workouts": [
+    {
+      "id": "2026-07-22",
+      "type": "upper",
+      "dow": "WED",
+      "dnum": "7/22",
+      "title": "Upper Body & Core",
+      "subtitle": "Wed, Jul 22 · Midday window",
+      "difficulty": 6,
+      "minutes": "~45",
+      "load": "Moderate",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "DB Bench Press",
+        "DB Rows",
+        "DB Shoulder Press"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Arm circles, band pull-aparts, scap push-ups",
+              "sub": "2 rounds · light effort",
+              "detail": "10 arm circles each direction, 15 band pull-aparts, 10 scap push-ups. Keep it light — just getting blood into shoulders and upper back before loading."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "DB Bench Press",
+              "sub": "3 sets × 8-10 reps · moderate weight",
+              "rest": 90,
+              "detail": "Pick a weight where the last 2 reps of each set feel challenging but controlled — not grinding. At 6/10 today, leave 2-3 reps in the tank."
+            },
+            {
+              "name": "DB Rows",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 75,
+              "detail": "Bench-supported or bent-over, controlled tempo, squeeze at the top. Full range of motion matters more than heavy weight here."
+            },
+            {
+              "name": "DB Shoulder Press",
+              "sub": "3 sets × 10 reps",
+              "rest": 75,
+              "detail": "Seated or standing. Moderate weight — this is a resume week, not a max-testing week. Smooth reps, no back arch."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8-10 min",
+          "items": [
+            {
+              "name": "Face Pulls",
+              "sub": "3 sets × 15 reps",
+              "rest": 45,
+              "detail": "Cable or band, elbows high, pause and squeeze the rear delts/upper back at the end range. Light-moderate weight, focus on posture."
+            },
+            {
+              "name": "Pallof Press",
+              "sub": "3 sets × 10/side",
+              "rest": 30,
+              "detail": "Cable or band, anti-rotation press. Brace the core, resist the pull to rotate. This is the running/cycling stability piece — quality over speed."
+            },
+            {
+              "name": "Side Plank",
+              "sub": "3 sets × 30-40s/side",
+              "rest": 30,
+              "detail": "Stack hips, straight line shoulder to ankle. If 40s is easy, add a top-arm reach-under for extra rotation challenge."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Chest, lat, and hip flexor stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Doorway chest stretch, overhead lat stretch, kneeling hip flexor stretch. Easy breathing, let heart rate settle before the evening."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25",
+      "type": "lower",
+      "dow": "SAT",
+      "dnum": "7/25",
+      "title": "Lower Body & Core",
+      "subtitle": "Sat, Jul 25 · Pair with today's ride",
+      "difficulty": 6,
+      "minutes": "~45",
+      "load": "Moderate",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Goblet Squats",
+        "RDLs",
+        "Walking Lunges",
+        "Glute Bridges"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Leg swings, bodyweight squats, hip circles",
+              "sub": "2 rounds · light effort",
+              "detail": "10 leg swings each direction/leg, 10 bodyweight squats, 10 hip circles each way. Get the hips and knees moving before loading."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Goblet Squats",
+              "sub": "3 sets × 10 reps · moderate weight",
+              "rest": 90,
+              "detail": "Hold a dumbbell or kettlebell at chest height. Full depth, controlled tempo. Still reintroduction week — leave 2-3 reps in the tank."
+            },
+            {
+              "name": "RDLs",
+              "sub": "3 sets × 10 reps",
+              "rest": 90,
+              "detail": "Dumbbell or barbell, soft knees, hinge at the hips, feel the hamstring stretch. Keep the weight close to your legs the whole way down."
+            },
+            {
+              "name": "Walking Lunges",
+              "sub": "3 sets × 10 reps/leg",
+              "rest": 75,
+              "detail": "Bodyweight or light dumbbells. Long enough stride that the front knee tracks over the ankle, not past the toes."
+            },
+            {
+              "name": "Glute Bridges",
+              "sub": "3 sets × 12 reps",
+              "rest": 60,
+              "detail": "Feet flat, drive through the heels, squeeze glutes hard at the top for a full second before lowering."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8-10 min",
+          "items": [
+            {
+              "name": "Dead Bugs",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Lower back pressed flat into the floor the entire time. Slow, controlled opposite arm/leg extension."
+            },
+            {
+              "name": "Plank",
+              "sub": "3 sets × 30-40s",
+              "rest": 30,
+              "detail": "Forearms down, straight line from shoulders to ankles, ribs pulled down. Breathe normally throughout."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Quad, hamstring, hip flexor stretch",
+              "sub": "Hold each 30-45s/side",
+              "detail": "Standing quad stretch, seated/standing hamstring stretch, kneeling hip flexor stretch. Keeps the hips from tightening up on a ride day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-07-26",
+      "type": "upper",
+      "dow": "SUN",
+      "dnum": "7/26",
+      "title": "Arms & Core Focus",
+      "subtitle": "Sun, Jul 26 · Swapped in — legs resting after FTP test + 8mi run",
+      "difficulty": 6,
+      "minutes": "~45",
+      "load": "Moderate",
+      "rpe": "RPE 6",
+      "mainMovements": [
+        "Bicep Curls",
+        "Tricep Extensions",
+        "Core Circuit",
+        "Plank Variations"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Arm circles, band pull-aparts, wrist mobility",
+              "sub": "2 rounds · light effort",
+              "detail": "10 arm circles each direction, 15 band pull-aparts, 10 wrist circles each way. Legs are resting today — this is purely an arms and core session, so keep the warm-up focused on upper body."
+            }
+          ]
+        },
+        {
+          "label": "Arms Block · 20-25 min",
+          "items": [
+            {
+              "name": "DB Bicep Curl",
+              "sub": "3 sets × 12 reps",
+              "rest": 45,
+              "detail": "Controlled tempo, no swinging. Moderate weight — today's about quality volume, not maxing out on a day you're also riding."
+            },
+            {
+              "name": "Overhead Tricep Extension",
+              "sub": "3 sets × 12 reps",
+              "rest": 45,
+              "detail": "Single DB or rope attachment overhead, elbows stay close to the head, full stretch at the bottom."
+            },
+            {
+              "name": "Hammer Curl",
+              "sub": "3 sets × 12 reps",
+              "rest": 45,
+              "detail": "Neutral grip, hits the brachialis for arm thickness alongside the standard curls."
+            },
+            {
+              "name": "Tricep Dips",
+              "sub": "3 sets × 12 reps",
+              "rest": 45,
+              "detail": "Bench or dip station. Elbows track back, not out to the sides. Add feet elevation if bodyweight feels too easy."
+            },
+            {
+              "name": "21s Curl + Close-Grip Push-Up Superset",
+              "sub": "2 rounds · 21s curls, then 12 close-grip push-ups",
+              "rest": 45,
+              "detail": "21s: 7 bottom-half reps, 7 top-half reps, 7 full-range reps, no rest between — that's one curl set. Straight into close-grip push-ups after. Finisher for the arms."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 15-18 min",
+          "items": [
+            {
+              "name": "Pallof Press",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Cable or band, anti-rotation press. Extra core volume today since legs are off — good chance to really dial in the posture/stability work."
+            },
+            {
+              "name": "Hollow Hold",
+              "sub": "3 sets × 30-40s",
+              "rest": 20,
+              "detail": "Lower back pressed flat, arms and legs extended. Hold the brace the whole time."
+            },
+            {
+              "name": "Dead Bug",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 20,
+              "detail": "Slow, controlled opposite arm/leg extension, lower back stays flat throughout."
+            },
+            {
+              "name": "Side Plank",
+              "sub": "3 sets × 30-40s/side",
+              "rest": 20,
+              "detail": "Stack hips, straight line shoulder to ankle. Add a reach-under if it's too easy."
+            },
+            {
+              "name": "Russian Twists",
+              "sub": "3 sets × 20 reps",
+              "rest": 20,
+              "detail": "Controlled rotation, not rushed. Add light weight if bodyweight feels too easy."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Arm and shoulder stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Overhead tricep stretch, cross-body shoulder stretch, wrist flexor/extensor stretch. Take it easy — you've still got the ride today too."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-07-29",
+      "type": "full",
+      "dow": "WED",
+      "dnum": "7/29",
+      "title": "Day B — Deadlift/Pull + Core",
+      "subtitle": "Wed, Jul 29 · Midday window before date night · Felt 5/10, planned 7/10",
+      "difficulty": 5,
+      "minutes": "~50",
+      "load": "Moderate-High",
+      "rpe": "RPE 5 (actual) · RPE 7 (planned)",
+      "mainMovements": [
+        "Deadlift",
+        "Pull-Ups/TRX Rows",
+        "Core Circuit",
+        "EMOM Finisher"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Leg swings, glute bridges, cat-cow, band pull-aparts",
+              "sub": "2 rounds · light effort",
+              "detail": "10 leg swings each direction/leg, 10 glute bridges, 10 cat-cow, 15 band pull-aparts. This week's had a lot of volume — take the warm-up seriously and check in with how the legs feel before loading the deadlift."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Deadlift",
+              "sub": "4 sets × 5 reps",
+              "rest": 120,
+              "detail": "Standard full-body split day. Given the week's volume (FTP test, 8mi run, 25mi ride, 5K test), listen to the first working set — if it feels unusually flat, trim 5-10% off the top weight rather than forcing it. Reset fully between reps, brace hard."
+            },
+            {
+              "name": "Pull-Ups or TRX Rows",
+              "sub": "3 sets × 8 reps",
+              "rest": 75,
+              "detail": "Pull-ups if you have a bar handy, TRX rows as the equipment-flexible substitute. Full range of motion, controlled negative."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8-10 min",
+          "items": [
+            {
+              "name": "Ab Wheel Rollouts or Hanging Leg Raises",
+              "sub": "3 sets × 10 reps",
+              "rest": 45,
+              "detail": "Ab wheel if you want the anti-extension challenge, hanging leg raises as the alternative. Keep the lower back from arching — that's the whole point of this movement."
+            },
+            {
+              "name": "Dead Bugs",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Lower back pressed flat, slow controlled opposite arm/leg extension."
+            },
+            {
+              "name": "Single-Arm Farmer Carry",
+              "sub": "3 sets × 30m/side",
+              "rest": 30,
+              "detail": "Heavy dumbbell or kettlebell, resist leaning to the loaded side. Builds the anti-lateral-flexion strength that carries over to both running and cycling posture."
+            }
+          ]
+        },
+        {
+          "label": "EMOM Finisher · 10-12 min",
+          "items": [
+            {
+              "name": "EMOM: Min 1 wall balls/thrusters, Min 2 KB swings, Min 3 rower sprint",
+              "sub": "4 rounds (12 total minutes)",
+              "rest": null,
+              "detail": "Minute 1: 12 wall balls or DB thrusters. Minute 2: 15 KB swings. Minute 3: 30 sec rower sprint, rest remainder of that minute. Repeat for 4 full rounds. Given the week's fatigue, it's fine to dial intensity here to what feels sustainable rather than max effort."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Hip flexor, hamstring, lat stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Kneeling hip flexor stretch, seated hamstring stretch, overhead lat stretch. Extra attention to the posterior chain today given the deadlifts on top of this week's run/ride volume."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-08-03",
+      "type": "full",
+      "dow": "MON",
+      "dnum": "8/3",
+      "title": "Day A — Squat/Press + Core",
+      "subtitle": "Mon, Aug 3 · Foundation Phase, Week 1",
+      "difficulty": 6,
+      "minutes": "~50",
+      "load": "Moderate",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Back Squat",
+        "Push Press",
+        "Core Circuit",
+        "AMRAP Finisher"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Bodyweight squats, leg swings, arm circles, band pull-aparts",
+              "sub": "2 rounds · light effort",
+              "detail": "10 bodyweight squats, 10 leg swings each direction/leg, 10 arm circles each direction, 15 band pull-aparts. First lifting session of the new Foundation phase — take the warm-up seriously and re-establish good movement patterns."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Back Squat",
+              "sub": "4 sets × 5 reps · ~185-195 lbs",
+              "rest": 120,
+              "detail": "Based on your 215 lb 5-rep max. Foundation phase priority: re-establish working weights and perfect form, not chase numbers. Full depth, controlled tempo. Adjust up or down slightly based on how the first working set feels — same approach as the deadlift calibration."
+            },
+            {
+              "name": "Push Press",
+              "sub": "3 sets × 6 reps",
+              "rest": 90,
+              "detail": "Slight dip and drive from the legs into the press. Moderate weight, focus on the explosive leg drive transferring into a clean overhead lockout."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8-10 min",
+          "items": [
+            {
+              "name": "Hollow Hold",
+              "sub": "3 sets × 40-45s",
+              "rest": 20,
+              "detail": "Lower back pressed flat, arms and legs extended. Anti-extension strength that braces the torso for squats and stabilizes the bike position."
+            },
+            {
+              "name": "Pallof Press",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Cable or band, anti-rotation press. Brace the core, resist the pull to rotate."
+            },
+            {
+              "name": "Bird Dog",
+              "sub": "3 sets × 30s/side",
+              "rest": 20,
+              "detail": "Slow and controlled, opposite arm/leg extension. Stabilizes the pelvis for running form and saddle position."
+            }
+          ]
+        },
+        {
+          "label": "AMRAP Finisher · 10-12 min",
+          "items": [
+            {
+              "name": "AMRAP: 10 KB swings, 10 box jumps/step-ups, 200m row, 10 push-ups",
+              "sub": "As many rounds as possible in 10-12 min",
+              "rest": null,
+              "detail": "Moderate intensity to build work capacity this early in the phase — not an all-out effort. Steady, sustainable pace across all rounds."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Quad, hip flexor, chest stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Standing quad stretch, kneeling hip flexor stretch, doorway chest stretch. Standard cooldown to close out the first Foundation-phase session."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05",
+      "type": "full",
+      "dow": "WED",
+      "dnum": "8/5",
+      "title": "Day B — Hinge/Pull + Core",
+      "subtitle": "Wed, Aug 5 · Foundation Phase, Week 1 · Before date night",
+      "difficulty": 6,
+      "minutes": "~50",
+      "load": "Moderate",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Deadlift",
+        "Pull-Ups/TRX Rows",
+        "Core Circuit",
+        "EMOM Finisher"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Leg swings, glute bridges, cat-cow, band pull-aparts",
+              "sub": "2 rounds · light effort",
+              "detail": "10 leg swings each direction/leg, 10 glute bridges, 10 cat-cow, 15 band pull-aparts. Get the hips and hamstrings ready before loading the deadlift."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Deadlift",
+              "sub": "4 sets × 5 reps · ~200-205 lbs",
+              "rest": 120,
+              "detail": "Based on your 225 lb 5-rep max — 185 lbs felt easy last time (RPE 5 vs. planned RPE 7), so this session steps up to a weight that should actually challenge reps 4-5 while keeping form clean. Adjust up or down slightly based on how the first working set feels."
+            },
+            {
+              "name": "Pull-Ups or TRX Rows",
+              "sub": "3 sets × 8 reps",
+              "rest": 75,
+              "detail": "Pull-ups if you have a bar, TRX rows as the flexible substitute. Full range of motion, controlled negative on both."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8-10 min",
+          "items": [
+            {
+              "name": "Ab Wheel Rollouts or Hanging Leg Raises",
+              "sub": "3 sets × 10 reps",
+              "rest": 45,
+              "detail": "Ab wheel for the anti-extension challenge, hanging leg raises as the alternative. Keep the lower back from arching."
+            },
+            {
+              "name": "Dead Bugs",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Lower back pressed flat, slow controlled opposite arm/leg extension."
+            },
+            {
+              "name": "Single-Arm Farmer Carry",
+              "sub": "3 sets × 30m/side",
+              "rest": 30,
+              "detail": "Heavy dumbbell or kettlebell, resist leaning to the loaded side. Builds anti-lateral-flexion strength for running and cycling posture."
+            }
+          ]
+        },
+        {
+          "label": "EMOM Finisher · 10-12 min",
+          "items": [
+            {
+              "name": "EMOM: Min 1 wall balls/thrusters, Min 2 KB swings, Min 3 rower sprint",
+              "sub": "4 rounds (12 total minutes)",
+              "rest": null,
+              "detail": "Minute 1: 12 wall balls or DB thrusters. Minute 2: 15 KB swings. Minute 3: 30 sec rower sprint, rest remainder of that minute. Repeat for 4 full rounds. Moderate intensity — building work capacity, not maxing out this early in the phase."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Hip flexor, hamstring, lat stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Kneeling hip flexor stretch, seated hamstring stretch, overhead lat stretch. You've got date night after, so give the posterior chain a proper cooldown."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10",
+      "type": "full",
+      "dow": "MON",
+      "dnum": "8/10",
+      "title": "Day A — Squat/Press + Core",
+      "subtitle": "Mon, Aug 10 · Foundation Phase, Week 2",
+      "difficulty": 6,
+      "minutes": "~50",
+      "load": "Moderate",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Back Squat",
+        "Push Press",
+        "Core Circuit",
+        "AMRAP Finisher"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Bodyweight squats, leg swings, arm circles, band pull-aparts",
+              "sub": "2 rounds · light effort",
+              "detail": "10 bodyweight squats, 10 leg swings each direction/leg, 10 arm circles each direction, 15 band pull-aparts."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Back Squat",
+              "sub": "4 sets × 5 reps · ~185-195 lbs",
+              "rest": 120,
+              "detail": "Based on your 215 lb 5-rep max. Full depth, controlled tempo. Adjust up or down slightly based on how the first working set feels."
+            },
+            {
+              "name": "Push Press",
+              "sub": "3 sets × 6 reps",
+              "rest": 90,
+              "detail": "Slight dip and drive from the legs into the press. Moderate weight, focus on the explosive leg drive transferring into a clean overhead lockout."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8-10 min",
+          "items": [
+            {
+              "name": "Hollow Hold",
+              "sub": "3 sets × 40-45s",
+              "rest": 20,
+              "detail": "Lower back pressed flat, arms and legs extended. Anti-extension strength that braces the torso for squats and stabilizes the bike position."
+            },
+            {
+              "name": "Pallof Press",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Cable or band, anti-rotation press. Brace the core, resist the pull to rotate."
+            },
+            {
+              "name": "Bird Dog",
+              "sub": "3 sets × 30s/side",
+              "rest": 20,
+              "detail": "Slow and controlled, opposite arm/leg extension. Stabilizes the pelvis for running form and saddle position."
+            }
+          ]
+        },
+        {
+          "label": "AMRAP Finisher · 10-12 min",
+          "items": [
+            {
+              "name": "AMRAP: 12 Goblet Squats, 10 Devil Press, 15 Mountain Climbers/side, 200m Row",
+              "sub": "As many rounds as possible in 10-12 min",
+              "rest": null,
+              "detail": "Fresh movement mix this week — goblet squats and devil press add more full-body pressing/hinging load than the usual KB swings/box jumps combo. Devil Press = burpee with two dumbbells, snatched overhead at the top; sub DB Thrusters if that's too much for the day. Steady, sustainable pace across all rounds."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Quad, hip flexor, chest stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Standing quad stretch, kneeling hip flexor stretch, doorway chest stretch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-08-12",
+      "type": "full",
+      "dow": "WED",
+      "dnum": "8/12",
+      "title": "Day B — Hinge/Pull + Core",
+      "subtitle": "Wed, Aug 12 · Foundation Phase, Week 2 · Before date night",
+      "difficulty": 6,
+      "minutes": "~50",
+      "load": "Moderate",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Deadlift",
+        "Pull-Ups/TRX Rows",
+        "Core Circuit",
+        "EMOM Finisher"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Leg swings, glute bridges, cat-cow, band pull-aparts",
+              "sub": "2 rounds · light effort",
+              "detail": "10 leg swings each direction/leg, 10 glute bridges, 10 cat-cow, 15 band pull-aparts."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Deadlift",
+              "sub": "4 sets × 5 reps · ~200-205 lbs",
+              "rest": 120,
+              "detail": "Based on your 225 lb 5-rep max. Full reset between reps, brace hard before every pull. Adjust based on how the first working set feels."
+            },
+            {
+              "name": "Pull-Ups or TRX Rows",
+              "sub": "3 sets × 8 reps",
+              "rest": 75,
+              "detail": "Pull-ups if you have a bar, TRX rows as the flexible substitute. Full range of motion, controlled negative on both."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8-10 min",
+          "items": [
+            {
+              "name": "Ab Wheel Rollouts or Hanging Leg Raises",
+              "sub": "3 sets × 10 reps",
+              "rest": 45,
+              "detail": "Ab wheel for the anti-extension challenge, hanging leg raises as the alternative. Keep the lower back from arching."
+            },
+            {
+              "name": "Dead Bugs",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Lower back pressed flat, slow controlled opposite arm/leg extension."
+            },
+            {
+              "name": "Single-Arm Farmer Carry",
+              "sub": "3 sets × 30m/side",
+              "rest": 30,
+              "detail": "Heavy dumbbell or kettlebell, resist leaning to the loaded side. Builds anti-lateral-flexion strength for running and cycling posture."
+            }
+          ]
+        },
+        {
+          "label": "EMOM Finisher · 10-12 min",
+          "items": [
+            {
+              "name": "EMOM: Min 1 Russian Twists/Med Ball Slams, Min 2 Renegade Rows, Min 3 Battle Ropes/Jumping Lunges",
+              "sub": "4 rounds (12 total minutes)",
+              "rest": null,
+              "detail": "Minute 1: 12 Russian twists/side or 12 med ball slams. Minute 2: 10 renegade rows/side. Minute 3: 15 battle rope waves or 20 jumping lunges/side. Fresh rotation/anti-rotation and upper-pressing focus this week compared to the usual wall balls/KB swings/rower combo."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Hip flexor, hamstring, lat stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Kneeling hip flexor stretch, seated hamstring stretch, overhead lat stretch. You've got date night after, so give the posterior chain a proper cooldown."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fallback-full-hiit-1",
+      "type": "full",
+      "dow": "ANY",
+      "dnum": "★",
+      "title": "Full Body HIIT",
+      "subtitle": "Fallback · No scheduled date",
+      "difficulty": 9,
+      "minutes": "60",
+      "load": "High",
+      "rpe": "RPE 9",
+      "mainMovements": [
+        "Front Squat to Push Press",
+        "Box Jumps",
+        "Rower Sprints",
+        "Burpees"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Jumping jacks, high knees, walkouts, arm circles",
+              "sub": "2 rounds · building intensity",
+              "detail": "30s jumping jacks, 30s high knees, 5 walkouts, 10 arm circles each direction. Second round faster than the first — get the heart rate up before loading anything heavy."
+            }
+          ]
+        },
+        {
+          "label": "Power Block · 15 min",
+          "items": [
+            {
+              "name": "Front Squat to Push Press",
+              "sub": "5 sets × 5 reps · heavy-moderate, explosive",
+              "rest": 75,
+              "detail": "Load it moderate-heavy but move it fast — drive up out of the squat straight into the press. This is about power output, not a grind. RPE 9 today means minimal rest and real intent behind every rep."
+            },
+            {
+              "name": "Box Jumps",
+              "sub": "5 sets × 5 reps",
+              "rest": 60,
+              "detail": "Full hip extension and stick the landing before resetting. Step down rather than jumping down to save the knees for the rest of the session."
+            }
+          ]
+        },
+        {
+          "label": "HIIT Circuit · 30 min",
+          "items": [
+            {
+              "name": "Round Format: 5 rounds",
+              "sub": "15s transitions, 75-90s rest between rounds",
+              "detail": "Burpees x15, KB Swings x20, Rower 250m sprint, Wall Balls x15, Mountain Climbers x30 (15/side). Move through all 5 exercises back-to-back with minimal transition time, then rest before the next round. This is the RPE 9 engine — by round 3-4 it should hurt."
+            },
+            {
+              "name": "Burpees",
+              "sub": "15 reps · max effort",
+              "rest": null,
+              "detail": "Full chest-to-floor, explosive jump at the top. First movement of each round — set the pace hard."
+            },
+            {
+              "name": "KB Swings",
+              "sub": "20 reps · heavy-moderate KB",
+              "rest": null,
+              "detail": "Hip-hinge power, not a shoulder raise. Snap the hips through on every rep."
+            },
+            {
+              "name": "Rower 250m",
+              "sub": "sprint pace",
+              "rest": null,
+              "detail": "This is a sprint, not a steady pace — empty the tank for the 250m, then move straight into wall balls."
+            },
+            {
+              "name": "Wall Balls",
+              "sub": "15 reps · moderate ball weight",
+              "rest": null,
+              "detail": "Full squat depth, hit the target, catch and reset immediately. Legs will be cooked by round 3 — push through."
+            },
+            {
+              "name": "Mountain Climbers",
+              "sub": "30 reps (15/side)",
+              "rest": 90,
+              "detail": "Fast, controlled, hips low. This is the last movement before the round rest — leave nothing in the tank here."
+            }
+          ]
+        },
+        {
+          "label": "Core Finisher · 5 min",
+          "items": [
+            {
+              "name": "Plank-to-Push-Up + Hollow Rocks",
+              "sub": "3 rounds · 10 plank-to-push-ups, 20 hollow rocks",
+              "rest": 20,
+              "detail": "Fast-paced burnout to close things out. Plank-to-push-ups alternate leading arms; hollow rocks stay tight through the low back the whole time."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Full-body stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Hip flexors, hamstrings, quads, chest, and lats. Breathe slow and deep — heart rate should be well settled before you stop."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fallback-full-hiit-2",
+      "type": "full",
+      "dow": "ANY",
+      "dnum": "★",
+      "title": "Full Body HIIT — Max Effort",
+      "subtitle": "Fallback · No scheduled date",
+      "difficulty": 10,
+      "minutes": "60",
+      "load": "Very High",
+      "rpe": "RPE 10",
+      "mainMovements": [
+        "Thrusters",
+        "Devil Press",
+        "Rower Sprints",
+        "Burpee Box Jump Overs"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Jumping jacks, high knees, walkouts, arm circles",
+              "sub": "2 rounds · building to fast",
+              "detail": "30s jumping jacks, 30s high knees, 5 walkouts, 10 arm circles each direction. Push the second round harder than usual — today's session goes out fast, so the body needs to be ready sooner."
+            }
+          ]
+        },
+        {
+          "label": "Power Block · 12 min",
+          "items": [
+            {
+              "name": "Thrusters",
+              "sub": "5 sets × 5 reps · heavy, explosive",
+              "rest": 90,
+              "detail": "Front squat straight into a press, no pause at the top of the squat. Heavy enough that rep 5 is genuinely hard — this sets the tone for RPE 10."
+            }
+          ]
+        },
+        {
+          "label": "HIIT Circuit · 33 min",
+          "items": [
+            {
+              "name": "Round Format: 5 rounds, max pace",
+              "sub": "Minimal transition, 45-60s rest between rounds",
+              "detail": "Devil Press x12, Rower 300m sprint, Burpee Box Jump Overs x12, Wall Balls x20, KB Swings x25 (heavy). Unbroken if possible within each round — this is an all-out effort, not a pacing exercise. By round 3 you should be questioning the plan."
+            },
+            {
+              "name": "Devil Press",
+              "sub": "12 reps",
+              "rest": null,
+              "detail": "Burpee with two dumbbells, snatch them overhead at the top. Brutal but efficient — full body every rep."
+            },
+            {
+              "name": "Rower 300m",
+              "sub": "max sprint pace",
+              "rest": null,
+              "detail": "Empty the tank. This should feel uncomfortable by 200m in."
+            },
+            {
+              "name": "Burpee Box Jump Overs",
+              "sub": "12 reps",
+              "rest": null,
+              "detail": "Burpee, then jump over the box rather than onto it. Keep moving even if the jump gets sloppy late in the round."
+            },
+            {
+              "name": "Wall Balls",
+              "sub": "20 reps",
+              "rest": null,
+              "detail": "Full depth squat, hit the target every rep. Legs will be shredded from the box jump overs — push through anyway."
+            },
+            {
+              "name": "KB Swings",
+              "sub": "25 reps · heavy KB",
+              "rest": 60,
+              "detail": "Heavier than your usual swings today. Hip snap does the work — don't let fatigue turn this into an arm exercise."
+            }
+          ]
+        },
+        {
+          "label": "Core Finisher · 5 min",
+          "items": [
+            {
+              "name": "Weighted Plank + Hollow Rock Hold",
+              "sub": "3 rounds · 30s weighted plank, 20 hollow rocks",
+              "rest": 20,
+              "detail": "Plate on the back for the plank if you have one handy. Hollow rocks stay tight through the low back — this is the last thing standing between you and being done, make it count."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Full-body stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Hip flexors, hamstrings, quads, chest, and lats. Take longer than usual here — RPE 10 sessions need real recovery attention afterward."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fallback-full-hiit-3",
+      "type": "full",
+      "dow": "ANY",
+      "dnum": "★",
+      "title": "Full Body HIIT — Hard but Controlled",
+      "subtitle": "Fallback · No scheduled date",
+      "difficulty": 8,
+      "minutes": "60",
+      "load": "High",
+      "rpe": "RPE 8",
+      "mainMovements": [
+        "Deadlift to Overhead Press",
+        "KB Swings",
+        "Box Step-Ups",
+        "Push-Ups"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Jumping jacks, high knees, walkouts, arm circles",
+              "sub": "2 rounds · moderate build-up",
+              "detail": "30s jumping jacks, 30s high knees, 5 walkouts, 10 arm circles each direction. Standard warm-up pace — today's session is hard but controlled, not an all-out sprint from the start."
+            }
+          ]
+        },
+        {
+          "label": "Power Block · 15 min",
+          "items": [
+            {
+              "name": "Deadlift to Overhead Press",
+              "sub": "4 sets × 6 reps · moderate-heavy",
+              "rest": 90,
+              "detail": "Deadlift the bar or dumbbells up, then press overhead from the hang or shoulder. Controlled tempo — challenging by rep 6, but form stays clean throughout."
+            }
+          ]
+        },
+        {
+          "label": "HIIT Circuit · 30 min",
+          "items": [
+            {
+              "name": "Round Format: 4 rounds",
+              "sub": "30s transitions, 90s rest between rounds",
+              "detail": "KB Swings x20, Rower 200m, Box Step-Ups x16 (8/leg), Push-Ups x15, Plank hold 30s. A full 90s rest between rounds keeps this hard but sustainable — quality reps over sheer chaos."
+            },
+            {
+              "name": "KB Swings",
+              "sub": "20 reps · moderate KB",
+              "rest": null,
+              "detail": "Hip-hinge power, controlled tempo. This should feel demanding but repeatable across all 4 rounds."
+            },
+            {
+              "name": "Rower 200m",
+              "sub": "strong, controlled pace",
+              "rest": null,
+              "detail": "Hard effort but not a max sprint — aim for a pace you could hold evenly across all 4 rounds."
+            },
+            {
+              "name": "Box Step-Ups",
+              "sub": "16 reps (8/leg)",
+              "rest": null,
+              "detail": "Full stand at the top, control the step down. Add dumbbells if bodyweight feels too easy by round 2."
+            },
+            {
+              "name": "Push-Ups",
+              "sub": "15 reps",
+              "rest": null,
+              "detail": "Chest to floor, full lockout at the top. Drop to knees if form breaks down late in the round rather than grinding out sloppy reps."
+            },
+            {
+              "name": "Plank Hold",
+              "sub": "30s",
+              "rest": 90,
+              "detail": "Straight line, ribs down, steady breathing. Last movement of the round before the longer rest."
+            }
+          ]
+        },
+        {
+          "label": "Core Finisher · 5 min",
+          "items": [
+            {
+              "name": "Hollow Hold + Russian Twists",
+              "sub": "3 rounds · 30s hollow hold, 20 russian twists",
+              "rest": 30,
+              "detail": "Hollow hold with lower back pressed flat. Russian twists controlled, not rushed — rotation quality matters more than speed here."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Full-body stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Hip flexors, hamstrings, quads, chest, and lats. Standard cooldown to close out the session."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fallback-upper-1",
+      "type": "upper",
+      "dow": "ANY",
+      "dnum": "★",
+      "title": "Upper Body Definition",
+      "subtitle": "Fallback · No scheduled date",
+      "difficulty": 7,
+      "minutes": "50",
+      "load": "Moderate-High",
+      "rpe": "RPE 7",
+      "mainMovements": [
+        "DB Bench Press",
+        "Cable Rows",
+        "Lateral Raises",
+        "Arm Supersets"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Band pull-aparts, arm circles, scap push-ups",
+              "sub": "2 rounds · light effort",
+              "detail": "15 band pull-aparts, 10 arm circles each direction, 10 scap push-ups. Get blood into the shoulders and upper back before the higher-rep work ahead."
+            }
+          ]
+        },
+        {
+          "label": "Hypertrophy Block · 20-25 min",
+          "items": [
+            {
+              "name": "DB Bench Press",
+              "sub": "4 sets × 12 reps · moderate weight",
+              "rest": 60,
+              "detail": "Lighter than your strength-day bench weight — this is about volume and time under tension for definition, not maxing out. Controlled 2-count lowering phase."
+            },
+            {
+              "name": "DB Incline Flyes",
+              "sub": "3 sets × 15 reps",
+              "rest": 45,
+              "detail": "Slight bend in the elbows throughout, feel the stretch across the chest at the bottom. Light-moderate weight — this is a shaping movement, not a strength builder."
+            },
+            {
+              "name": "Seated Cable Row",
+              "sub": "4 sets × 12 reps",
+              "rest": 60,
+              "detail": "Full stretch forward, squeeze the shoulder blades together at the back of each rep. Controlled tempo builds the back width/definition look."
+            },
+            {
+              "name": "Lateral Raises",
+              "sub": "3 sets × 15 reps",
+              "rest": 45,
+              "detail": "Light weight, slight forward lean, lead with the elbows. This shapes shoulder width — resist the urge to go heavy here."
+            }
+          ]
+        },
+        {
+          "label": "Arm Superset Finisher · 10 min",
+          "items": [
+            {
+              "name": "Bicep Curl + Tricep Pushdown Superset",
+              "sub": "3 rounds × 12 reps each, no rest between exercises",
+              "rest": 45,
+              "detail": "Straight into tricep pushdowns right after curls, no rest between the two. Rest 45s only after completing both, then repeat. This is the pump-focused piece for visible arm definition."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8 min",
+          "items": [
+            {
+              "name": "Pallof Press",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Cable or band, anti-rotation press. Same posture/stability purpose as always — brace and resist the pull to rotate."
+            },
+            {
+              "name": "Side Plank",
+              "sub": "3 sets × 30-40s/side",
+              "rest": 30,
+              "detail": "Stack hips, straight line shoulder to ankle. Add a reach-under if 40s feels too easy."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Chest, lat, and shoulder stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Doorway chest stretch, overhead lat stretch, cross-body shoulder stretch. Let the arms and chest settle after the higher-volume work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fallback-upper-2",
+      "type": "upper",
+      "dow": "ANY",
+      "dnum": "★",
+      "title": "Upper Body Definition — High Intensity",
+      "subtitle": "Fallback · No scheduled date",
+      "difficulty": 9,
+      "minutes": "55-60",
+      "load": "High",
+      "rpe": "RPE 9",
+      "mainMovements": [
+        "DB Bench Drop Sets",
+        "Push-Pull Supersets",
+        "Lateral Raise Burnout",
+        "21s Arm Finisher"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Band pull-aparts, arm circles, scap push-ups",
+              "sub": "2 rounds · building intensity",
+              "detail": "15 band pull-aparts, 10 arm circles each direction, 10 scap push-ups. Second round faster — today's volume is high, get the joints ready."
+            }
+          ]
+        },
+        {
+          "label": "Hypertrophy Block · 20 min",
+          "items": [
+            {
+              "name": "DB Bench Press Drop Sets",
+              "sub": "4 sets × 8 reps, then drop weight ~20% for 8 more, no rest between",
+              "rest": 75,
+              "detail": "Hit 8 reps at your working weight, immediately grab lighter dumbbells and knock out 8 more with no rest. That full drop set is one 'set' — rest 75s only after the drop, then repeat."
+            },
+            {
+              "name": "Push-Pull Superset: DB Row + DB Shoulder Press",
+              "sub": "4 rounds × 10 reps each, no rest between",
+              "rest": 45,
+              "detail": "Row straight into press with no rest between the two movements. Rest 45s only after completing both, then repeat. This keeps the whole upper body under tension."
+            }
+          ]
+        },
+        {
+          "label": "Burnout Circuit · 15 min",
+          "items": [
+            {
+              "name": "Round Format: 4 rounds, fast pace",
+              "sub": "Minimal transition, 30s rest between rounds",
+              "detail": "Lateral Raises x15, Face Pulls x15, Push-ups to failure. Move through all three back-to-back, then rest 30s before the next round. By round 3 the shoulders should be burning."
+            },
+            {
+              "name": "Lateral Raises",
+              "sub": "15 reps · light weight",
+              "rest": null,
+              "detail": "Light weight is the point here — this is about burning out the delts for that capped-shoulder look, not moving heavy loads."
+            },
+            {
+              "name": "Face Pulls",
+              "sub": "15 reps",
+              "rest": null,
+              "detail": "Elbows high, squeeze the rear delts and upper back at the end range."
+            },
+            {
+              "name": "Push-ups to Failure",
+              "sub": "max reps",
+              "rest": 30,
+              "detail": "Go until form breaks down, not just until it's hard. This closes out each round before the between-round rest."
+            }
+          ]
+        },
+        {
+          "label": "21s Arm Finisher · 10 min",
+          "items": [
+            {
+              "name": "Bicep Curl 21s + Tricep Dips",
+              "sub": "3 rounds · 7+7+7 curls, then 15 dips",
+              "rest": 30,
+              "detail": "21s: 7 reps bottom-half range, 7 reps top-half range, 7 reps full range, all without rest — that's one bicep set. Straight into 15 tricep dips after. This is the definition-focused burnout to finish the arms."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8 min",
+          "items": [
+            {
+              "name": "Hollow Hold",
+              "sub": "3 sets × 40s",
+              "rest": 20,
+              "detail": "Lower back pressed flat, arms and legs extended. Hold the brace the entire 40s — this is demanding after all the upper body volume, that's the point."
+            },
+            {
+              "name": "Russian Twists",
+              "sub": "3 sets × 20 reps",
+              "rest": 20,
+              "detail": "Controlled rotation, not rushed. Add weight if bodyweight feels too easy."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Chest, lat, and shoulder stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Doorway chest stretch, overhead lat stretch, cross-body shoulder stretch. Take extra time here — this session runs hot, recovery matters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camp-bodyweight-1",
+      "type": "upper",
+      "dow": "ANY",
+      "dnum": "★",
+      "title": "Camp Bodyweight — Push/Pull",
+      "subtitle": "Fallback · No equipment, ~20 min · Camping trip",
+      "difficulty": 6,
+      "minutes": "20",
+      "load": "Moderate",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Push-Ups",
+        "Pike Push-Ups",
+        "Superman Pulls",
+        "Tricep Dips"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 3 min",
+          "items": [
+            {
+              "name": "Arm circles, walkouts, standing good mornings",
+              "sub": "2 rounds · light effort",
+              "detail": "10 arm circles each direction, 5 walkouts, 10 standing good mornings. No equipment needed — just get the shoulders, hips, and hamstrings moving before the circuit."
+            }
+          ]
+        },
+        {
+          "label": "Main Circuit · 12 min AMRAP",
+          "items": [
+            {
+              "name": "Push-Ups",
+              "sub": "12 reps",
+              "rest": null,
+              "detail": "Chest to ground, full lockout at the top. Drop to knees if form breaks down late in the circuit rather than grinding sloppy reps."
+            },
+            {
+              "name": "Pike Push-Ups",
+              "sub": "8 reps",
+              "rest": null,
+              "detail": "Hips high in a pike/inverted-V position, hands and feet on the ground, lower the head toward the floor between the hands. This is your shoulder-press substitute with zero equipment."
+            },
+            {
+              "name": "Superman Pulls",
+              "sub": "15 reps",
+              "rest": null,
+              "detail": "Lie face-down, arms extended overhead. Lift chest, arms, and legs off the ground together (the 'Superman' position), then pull the elbows back toward the ribs like a rowing motion, squeezing the shoulder blades together, before extending back out overhead. Keep chest and legs lifted the whole time."
+            },
+            {
+              "name": "Tricep Dips",
+              "sub": "12 reps · off a log, rock, or bench",
+              "rest": null,
+              "detail": "Hands behind you on a stable elevated surface, lower the hips straight down and press back up. Elbows track back, not out to the sides."
+            },
+            {
+              "name": "Plank Shoulder Taps",
+              "sub": "20 reps (10/side)",
+              "rest": 60,
+              "detail": "High plank position, tap the opposite shoulder with each hand while keeping the hips as still as possible. Last movement before the round rest."
+            }
+          ]
+        },
+        {
+          "label": "Core Finisher · 5 min — Burn/Definition Focus",
+          "items": [
+            {
+              "name": "Bicycle Crunches",
+              "sub": "20 reps (10/side)",
+              "rest": 15,
+              "detail": "Elbow to opposite knee, controlled rotation, exhale on the crunch. This one's about the burn, not stability — feel it in the obliques."
+            },
+            {
+              "name": "Flutter Kicks",
+              "sub": "30 sec",
+              "rest": 15,
+              "detail": "Lower back pressed into the ground, small fast kicks. Keep the legs low enough to feel it in the lower abs without the back arching."
+            },
+            {
+              "name": "V-Ups",
+              "sub": "12 reps",
+              "rest": null,
+              "detail": "Simultaneously lift straight legs and torso to meet in a V shape, reaching for the toes. Full-range ab strength movement to close out the finisher."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camp-bodyweight-2",
+      "type": "lower",
+      "dow": "ANY",
+      "dnum": "★",
+      "title": "Camp Bodyweight — Lower Body & Core Strength",
+      "subtitle": "Fallback · No equipment, ~20 min · Camping trip",
+      "difficulty": 6,
+      "minutes": "20",
+      "load": "Moderate",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Reverse Lunges",
+        "Single-Leg Glute Bridges",
+        "Broad Jumps",
+        "Curtsy Lunges"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 3 min",
+          "items": [
+            {
+              "name": "Leg swings, hip circles, walking lunges",
+              "sub": "2 rounds · light effort",
+              "detail": "10 leg swings each direction/leg, 10 hip circles each way, 10 walking lunges (bodyweight). Gets the hips and knees ready without any equipment."
+            }
+          ]
+        },
+        {
+          "label": "Main Circuit · 12 min AMRAP",
+          "items": [
+            {
+              "name": "Reverse Lunges",
+              "sub": "10 reps/leg",
+              "rest": null,
+              "detail": "Step backward into the lunge, front knee tracks over the ankle. Controlled tempo, push through the front heel to return to standing."
+            },
+            {
+              "name": "Single-Leg Glute Bridges",
+              "sub": "12 reps/leg",
+              "rest": null,
+              "detail": "Same setup as a regular glute bridge — on your back, knees bent, feet flat — but extend one leg straight out and drive the bridge entirely through the other planted foot and glute. Switch legs after your reps on one side."
+            },
+            {
+              "name": "Broad Jumps",
+              "sub": "8 reps",
+              "rest": null,
+              "detail": "Jump forward as far as possible, land softly with bent knees, reset before the next rep. Explosive power movement — walk back to your start point between jumps if space is tight."
+            },
+            {
+              "name": "Curtsy Lunges",
+              "sub": "10 reps/leg",
+              "rest": null,
+              "detail": "Step one leg diagonally behind and across your body like a curtsy, bending both knees until the back knee nearly touches the ground. Front knee tracks over the ankle, not caving inward. Complete all reps on one side before switching."
+            },
+            {
+              "name": "Wall Sit",
+              "sub": "30 sec",
+              "rest": 60,
+              "detail": "Back flat against a tree, rock, or any vertical surface, thighs parallel to the ground. Last movement before the round rest — hold it out."
+            }
+          ]
+        },
+        {
+          "label": "Core Finisher · 5 min — Strength Focus",
+          "items": [
+            {
+              "name": "Bodyweight Sit-Ups",
+              "sub": "15 reps",
+              "rest": 15,
+              "detail": "Full sit-up, feet anchored if possible (or hook under a log). Controlled on the way down, not just dropping back."
+            },
+            {
+              "name": "Side Plank Hip Dips",
+              "sub": "10 reps/side",
+              "rest": 15,
+              "detail": "Side plank position, dip the hip toward the ground and lift back up to the starting plank height. Builds oblique strength beyond just holding a static plank."
+            },
+            {
+              "name": "Leg Raises",
+              "sub": "12 reps",
+              "rest": null,
+              "detail": "Lying on your back, legs straight, lower back pressed into the ground, raise legs to vertical and lower with control. Straight strength-focused finisher to close things out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01",
+      "type": "full",
+      "dow": "TUE",
+      "dnum": "9/1",
+      "title": "Day B — Hinge/Pull + Core",
+      "subtitle": "Tue, Sep 1 · Before date night",
+      "difficulty": 6,
+      "minutes": "~50",
+      "load": "Moderate",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Trap Bar Deadlift",
+        "Single-Arm DB Row",
+        "Core Circuit",
+        "Chipper Finisher"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Leg swings, glute bridges, cat-cow, band pull-aparts",
+              "sub": "2 rounds · light effort",
+              "detail": "10 leg swings each direction/leg, 10 glute bridges, 10 cat-cow, 15 band pull-aparts."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Trap Bar Deadlift",
+              "sub": "4 sets × 6-8 reps",
+              "rest": 120,
+              "detail": "Switching up from the straight barbell deadlift for variety — trap bar puts the load closer to your center of mass, which is often more shoulder/back-friendly. If no trap bar is available, sub single-leg DB RDLs instead. Moderate-heavy weight, full reset between reps."
+            },
+            {
+              "name": "Single-Arm DB Row",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 75,
+              "detail": "Bench-supported, full stretch at the bottom, squeeze the shoulder blade at the top. Unilateral variation instead of the usual TRX/pull-up pattern — also challenges anti-rotation core stability as a bonus."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8-10 min — Burn/Definition Focus",
+          "items": [
+            {
+              "name": "Weighted Sit-Ups",
+              "sub": "3 sets × 15 reps",
+              "rest": 30,
+              "detail": "Hold a light plate or dumbbell against your chest, full sit-up range. This is a strength/burn movement rather than the usual stability work."
+            },
+            {
+              "name": "Cable Woodchoppers",
+              "sub": "3 sets × 12 reps/side",
+              "rest": 30,
+              "detail": "Stand sideways to a cable machine or anchored band. Pull the handle diagonally across your body — high to low or low to high — letting the rotation come from your core and hips, arms staying fairly straight, like swinging an axe."
+            },
+            {
+              "name": "Side Plank Reach-Unders",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 20,
+              "detail": "Side plank position, top arm reaches under your torso and back out to the ceiling each rep. Adds a dynamic, burn-focused element to the usual static side plank."
+            }
+          ]
+        },
+        {
+          "label": "Chipper Finisher · 10-12 min",
+          "items": [
+            {
+              "name": "4 Rounds For Time: KB Clean & Press, Rower 250m, Devil Press",
+              "sub": "10 KB Clean & Press, 250m Row, 10 Devil Press per round",
+              "rest": null,
+              "detail": "KB Clean & Press: clean the kettlebell to shoulder height, then press overhead — one fluid motion. Devil Press: burpee with two dumbbells, snatched overhead at the top. Race the clock across all 4 rounds rather than pacing evenly — a different mental game than the usual AMRAP/EMOM."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Hip flexor, hamstring, lat stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Kneeling hip flexor stretch, seated hamstring stretch, overhead lat stretch. Date night after, so give the posterior chain a proper cooldown."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03",
+      "type": "full",
+      "dow": "THU",
+      "dnum": "9/3",
+      "title": "Day A — Squat/Press + Core",
+      "subtitle": "Thu, Sep 3 · AM lift, PM ride — before rehearsal dinner",
+      "difficulty": 6,
+      "minutes": "~50",
+      "load": "Moderate",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Front Squat",
+        "Landmine Press",
+        "Core Circuit",
+        "Interval Finisher"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Bodyweight squats, leg swings, arm circles, band pull-aparts",
+              "sub": "2 rounds · light effort",
+              "detail": "10 bodyweight squats, 10 leg swings each direction/leg, 10 arm circles each direction, 15 band pull-aparts."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Front Squat",
+              "sub": "4 sets × 6-8 reps",
+              "rest": 120,
+              "detail": "Switching up from back squat for variety — front-loaded position shifts emphasis to the quads and upper back. If it feels awkward on the wrists/shoulders, sub Bulgarian Split Squats (DB) instead. Moderate weight, full depth."
+            },
+            {
+              "name": "Landmine Press",
+              "sub": "3 sets × 8 reps/side",
+              "rest": 75,
+              "detail": "Wedge one end of a barbell into a landmine attachment (or jam it into a corner). Hold the free end at shoulder height with one hand, press up and slightly forward following the bar's natural arc. The fixed pivot point makes this easier on the shoulders than a straight overhead press."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 8-10 min — Strength Focus",
+          "items": [
+            {
+              "name": "Weighted Plank",
+              "sub": "3 sets × 30-40s",
+              "rest": 30,
+              "detail": "Plate on the back, standard forearm plank position. The added load turns this into a genuine strength movement rather than just an endurance hold."
+            },
+            {
+              "name": "Landmine Rotations",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Same landmine setup as the press. Hold the end of the bar with both hands, rotate it from hip to hip in a controlled arc, pivoting the back foot. Builds rotational core strength."
+            },
+            {
+              "name": "Cable Crunches",
+              "sub": "3 sets × 15 reps",
+              "rest": 20,
+              "detail": "Kneeling in front of a cable machine, rope attachment behind the head, crunch down by contracting the abs — not pulling with the arms. Loadable ab strength movement."
+            }
+          ]
+        },
+        {
+          "label": "Interval Finisher · 10-12 min",
+          "items": [
+            {
+              "name": "4 Rounds: Assault Bike/Row Sprint, Slam Balls, Burpee Broad Jumps",
+              "sub": "20 sec sprint, 12 slam balls, 8 burpee broad jumps",
+              "rest": 60,
+              "detail": "20 second all-out sprint on the assault bike or rower, straight into 12 slam balls, then 8 burpee broad jumps (burpee, then a broad jump forward). Rest 60s between rounds. Short, sharp, and different from the AMRAP/chipper formats used recently."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Quad, hip flexor, chest stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Standing quad stretch, kneeling hip flexor stretch, doorway chest stretch. You've got a PM ride today too, so keep this thorough."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07",
+      "type": "full",
+      "dow": "MON",
+      "dnum": "9/7",
+      "title": "Full Lift",
+      "subtitle": "Mon, Sep 7 · Only lift session before backpacking trip",
+      "difficulty": 7,
+      "minutes": "~55",
+      "load": "Moderate-High",
+      "rpe": "RPE 7",
+      "mainMovements": [
+        "Back Squat",
+        "Bench Press",
+        "Single-Arm DB Row",
+        "Romanian Deadlift"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Bodyweight squats, arm circles, leg swings, band pull-aparts",
+              "sub": "2 rounds · light effort",
+              "detail": "10 bodyweight squats, 10 arm circles each direction, 10 leg swings each direction/leg, 15 band pull-aparts. Comprehensive full-body session today, so give the warm-up real attention."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 25-30 min",
+          "items": [
+            {
+              "name": "Back Squat",
+              "sub": "4 sets × 5 reps · ~185-195 lbs",
+              "rest": 120,
+              "detail": "Based on your 215 lb 5-rep max. Full depth, controlled tempo. This is your main lower-body push for the week since it's the only lift session before backpacking."
+            },
+            {
+              "name": "Bench Press",
+              "sub": "4 sets × 6-8 reps",
+              "rest": 90,
+              "detail": "DB or barbell, whichever you have set up. Controlled tempo, full range of motion — main upper-body push for today's session."
+            },
+            {
+              "name": "Single-Arm DB Row",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 75,
+              "detail": "Bench-supported, full stretch at the bottom, squeeze the shoulder blade at the top. Main upper-body pull for the day."
+            },
+            {
+              "name": "Romanian Deadlift",
+              "sub": "3 sets × 10 reps · DB, lighter accessory weight",
+              "rest": 60,
+              "detail": "Lighter than a true deadlift working set since you already hit squats hard today — this is the hip-hinge accessory piece, not a max effort. Soft knees, hinge at the hips, feel the hamstring stretch."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 10 min",
+          "items": [
+            {
+              "name": "Toes-to-Bar",
+              "sub": "3 sets × 8-10 reps · sub Hanging Knee Raises if needed",
+              "rest": 45,
+              "detail": "Hang from a bar, raise straight legs to touch the bar (or bent knees toward chest as the regression). Strength-focused ab movement — control the descent, don't just drop."
+            },
+            {
+              "name": "Side Plank with Leg Lift",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Side plank position, lift the top leg up and lower with control for each rep. Adds a dynamic, burn-focused layer on top of the usual static side plank."
+            },
+            {
+              "name": "Suitcase Carry",
+              "sub": "3 sets × 30m/side",
+              "rest": 30,
+              "detail": "Heavy dumbbell or kettlebell in one hand only, walk while resisting the urge to lean away from the load. Builds anti-lateral-flexion core strength — directly carries over to running and cycling posture."
+            }
+          ]
+        },
+        {
+          "label": "Tabata Finisher · 8 min",
+          "items": [
+            {
+              "name": "Tabata: Burpees / KB Swings",
+              "sub": "8 rounds × 20s work, 10s rest, alternating exercises",
+              "rest": null,
+              "detail": "Round 1: 20s Burpees. Round 2: 20s KB Swings. Alternate for all 8 rounds (4 rounds of each). New format today — short, sharp, and all-out for each 20-second burst rather than steady pacing."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Quad, chest, hip flexor stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Standing quad stretch, doorway chest stretch, kneeling hip flexor stretch. This was a big session — take the cooldown seriously before a few days off from lifting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09",
+      "type": "full",
+      "dow": "WED",
+      "dnum": "9/9",
+      "title": "Bodyweight + Abs",
+      "subtitle": "Wed, Sep 9 · Midday, before date night · No equipment",
+      "difficulty": 6,
+      "minutes": "~25",
+      "load": "Moderate",
+      "rpe": "RPE 6",
+      "mainMovements": [
+        "Bear Crawls",
+        "Spiderman Push-Ups",
+        "Star Jumps",
+        "Ab Circuit"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 3 min",
+          "items": [
+            {
+              "name": "Jumping jacks, torso twists, cat-cow",
+              "sub": "2 rounds · light effort",
+              "detail": "30s jumping jacks, 10 torso twists each direction, 10 cat-cow. No equipment needed — just get the whole body moving before the circuit."
+            }
+          ]
+        },
+        {
+          "label": "Main Circuit · 15 min AMRAP",
+          "items": [
+            {
+              "name": "Bear Crawls",
+              "sub": "10 forward steps",
+              "rest": null,
+              "detail": "Hands and feet on the ground, knees hovering just above the floor, crawl forward moving opposite hand/foot together. Builds shoulder stability and core control."
+            },
+            {
+              "name": "Plank Jacks",
+              "sub": "20 reps",
+              "rest": null,
+              "detail": "High plank position, jump the feet out wide and back together, like a jumping jack from a plank. Keep the hips stable and low the whole time."
+            },
+            {
+              "name": "Spiderman Push-Ups",
+              "sub": "10 reps",
+              "rest": null,
+              "detail": "Standard push-up, but drive one knee out toward the same-side elbow as you lower down, alternating sides each rep. Adds an oblique/hip-flexor element to a regular push-up."
+            },
+            {
+              "name": "Star Jumps",
+              "sub": "15 reps",
+              "rest": null,
+              "detail": "Squat down, then jump up explosively, spreading arms and legs into an X shape at the peak. Full-body explosive movement for the cardio piece of the circuit."
+            },
+            {
+              "name": "Squat Pulses",
+              "sub": "20 reps",
+              "rest": 60,
+              "detail": "Hold a squat position at the bottom and pulse up and down through a small range of motion. Burns out the legs before the round rest."
+            }
+          ]
+        },
+        {
+          "label": "Ab Finisher · 8-10 min",
+          "items": [
+            {
+              "name": "Scissor Kicks",
+              "sub": "30 sec",
+              "rest": 15,
+              "detail": "Lying on your back, lower back pressed into the ground, small alternating leg kicks. Keep the legs low enough that the lower back stays flat."
+            },
+            {
+              "name": "Toe Touches",
+              "sub": "15 reps",
+              "rest": 15,
+              "detail": "Lying on your back, legs straight up toward the ceiling, crunch up reaching for your toes. Upper-ab focused burn movement."
+            },
+            {
+              "name": "Hollow Body Rocks",
+              "sub": "20 reps",
+              "rest": 15,
+              "detail": "Hollow position — lower back flat, arms and legs extended — rock gently back and forth along the spine while holding the brace the entire time."
+            },
+            {
+              "name": "Bodyweight Russian Twists",
+              "sub": "20 reps (10/side)",
+              "rest": 15,
+              "detail": "Seated, lean back slightly, feet can stay on the ground or lift for more difficulty, rotate side to side touching the ground each side."
+            },
+            {
+              "name": "Plank to Downward Dog",
+              "sub": "10 reps",
+              "rest": null,
+              "detail": "From a high plank, push hips up and back into a downward dog position, then return to plank. Stretches out the whole posterior chain while still under control — good way to close out the ab work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-21",
+      "type": "full",
+      "dow": "MON",
+      "dnum": "9/21",
+      "title": "Return to Lifting",
+      "subtitle": "Mon, Sep 21 · One-time Monday exception — first lift in ~2 weeks · Ladder finisher felt too easy (2:32)",
+      "difficulty": 6,
+      "minutes": "~50",
+      "load": "Moderate",
+      "rpe": "RPE 6",
+      "mainMovements": [
+        "Goblet Squat",
+        "DB Overhead Press",
+        "TRX Rows",
+        "Single-Leg RDL"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Bodyweight squats, arm circles, leg swings, band pull-aparts",
+              "sub": "2 rounds · light effort",
+              "detail": "10 bodyweight squats, 10 arm circles each direction, 10 leg swings each direction/leg, 15 band pull-aparts. First lift back after roughly 2 weeks off (post-backpacking rest week) — take the warm-up seriously."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Goblet Squat (KB or DB)",
+              "sub": "4 sets × 8 reps · moderate weight",
+              "rest": 90,
+              "detail": "Lighter and higher-rep than your usual back squat working sets — easing back in after the break rather than jumping straight to 185-195 lbs. Full depth, controlled tempo."
+            },
+            {
+              "name": "DB Overhead Press",
+              "sub": "3 sets × 8 reps",
+              "rest": 75,
+              "detail": "Seated or standing, moderate weight. Fresh pressing variation from the usual bench/push press/landmine rotation."
+            },
+            {
+              "name": "TRX Rows",
+              "sub": "3 sets × 10 reps",
+              "rest": 60,
+              "detail": "Full range of motion, controlled negative. Body angle controls difficulty — more horizontal is harder."
+            },
+            {
+              "name": "Single-Leg RDL (DB)",
+              "sub": "3 sets × 8 reps/side",
+              "rest": 60,
+              "detail": "Hinge at the hip on one leg, opposite leg extends back for balance, DB in the opposite hand. Unilateral hinge variation — good for balance and single-leg stability after time off."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 10 min — New Combo",
+          "items": [
+            {
+              "name": "Copenhagen Plank",
+              "sub": "3 sets × 20-30s/side",
+              "rest": 30,
+              "detail": "Lie on your side, top leg's inner thigh/ankle resting on a bench, bottom leg hovering off the ground, hold a side-plank-like position off the bench. Brutal adductor/inner-thigh strength move — start with shorter holds if this is your first time doing it."
+            },
+            {
+              "name": "Standing Cable Crunch",
+              "sub": "3 sets × 15 reps",
+              "rest": 30,
+              "detail": "Rope attachment overhead, crunch down by contracting the abs while standing, not by bending at the hips."
+            },
+            {
+              "name": "Plank Rotations (Spiderman Plank)",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 20,
+              "detail": "From a forearm or high plank, drive one knee out to the same-side elbow, tap, return, alternate sides."
+            }
+          ]
+        },
+        {
+          "label": "Ascending Ladder Finisher · 10-12 min",
+          "items": [
+            {
+              "name": "Ladder: Burpees + KB Swings",
+              "sub": "1 rep each round 1, 2 each round 2... up to 6 each round 6, for time — completed in 2:32, felt too easy",
+              "rest": null,
+              "detail": "Round 1: 1 burpee + 1 KB swing. Round 2: 2 of each. Continue adding a rep each round through round 6 (6 of each). Actual result: 2:32, well under the intended difficulty — a 1-6 ladder of just two light movements is too short for this fitness level. Future ladders need a higher ceiling (e.g. 1-10, or heavier/more complex movements) to actually challenge."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Quad, chest, hip flexor stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Standing quad stretch, doorway chest stretch, kneeling hip flexor stretch. First session back after a break — give the body a proper cooldown."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22",
+      "type": "full",
+      "dow": "TUE",
+      "dnum": "9/22",
+      "title": "Hinge/Pull Focus",
+      "subtitle": "Tue, Sep 22 · Back to real working weight",
+      "difficulty": 7,
+      "minutes": "~50",
+      "load": "Moderate-High",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Deadlift",
+        "Pull-Ups/TRX Rows",
+        "Core Circuit",
+        "Descending Ladder"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Leg swings, glute bridges, cat-cow, band pull-aparts",
+              "sub": "2 rounds · light effort",
+              "detail": "10 leg swings each direction/leg, 10 glute bridges, 10 cat-cow, 15 band pull-aparts."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Deadlift",
+              "sub": "4 sets × 5 reps · ~200-205 lbs",
+              "rest": 120,
+              "detail": "Back to your real working weight based on the 225 lb 5-rep max — Monday was intentionally lighter to ease back in, this session returns to normal loading. Full reset between reps, brace hard."
+            },
+            {
+              "name": "Pull-Ups or TRX Rows",
+              "sub": "3 sets × 8 reps",
+              "rest": 75,
+              "detail": "Pull-ups if you have a bar, TRX rows as the flexible substitute. Full range of motion, controlled negative."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 10 min — Fresh Combo",
+          "items": [
+            {
+              "name": "Renegade Rows",
+              "sub": "3 sets × 8 reps/side",
+              "rest": 30,
+              "detail": "Plank position holding a dumbbell in each hand, row one side up to your ribs while stabilizing on the other arm, alternate sides. Anti-rotation stability combined with a pulling movement."
+            },
+            {
+              "name": "Hanging Windshield Wipers",
+              "sub": "3 sets × 8 reps/side",
+              "rest": 45,
+              "detail": "Hang from a bar, raise your legs and rotate them side to side like a windshield wiper. Strength-focused — scale to bent knees instead of straight legs if the full version is too much."
+            },
+            {
+              "name": "Weighted Russian Twist",
+              "sub": "3 sets × 20 reps",
+              "rest": 20,
+              "detail": "Seated, holding a dumbbell or plate, lean back slightly and rotate side to side touching the weight down each side. Burn/definition focused."
+            }
+          ]
+        },
+        {
+          "label": "Descending Ladder Finisher · 8-10 min",
+          "items": [
+            {
+              "name": "Ladder: DB Thrusters + Box Jumps",
+              "sub": "10-8-6-4-2 reps each, for time",
+              "rest": null,
+              "detail": "Round 1: 10 DB thrusters + 10 box jumps. Then 8 of each, 6, 4, 2 — descending. Bigger jumps between rounds than Monday's ladder, and heavier/more demanding movements, so this should actually push you rather than finishing in under 3 minutes."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Hip flexor, hamstring, lat stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Kneeling hip flexor stretch, seated hamstring stretch, overhead lat stretch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24",
+      "type": "full",
+      "dow": "THU",
+      "dnum": "9/24",
+      "title": "Squat/Press Focus",
+      "subtitle": "Thu, Sep 24 · AM lift before PM ride · Real working weight",
+      "difficulty": 7,
+      "minutes": "~50",
+      "load": "Moderate-High",
+      "rpe": "RPE 6-7",
+      "mainMovements": [
+        "Back Squat",
+        "Landmine Press",
+        "Core Circuit",
+        "Man Makers"
+      ],
+      "sections": [
+        {
+          "label": "Warm-up · 5 min",
+          "items": [
+            {
+              "name": "Bodyweight squats, arm circles, leg swings, band pull-aparts",
+              "sub": "2 rounds · light effort",
+              "detail": "10 bodyweight squats, 10 arm circles each direction, 10 leg swings each direction/leg, 15 band pull-aparts."
+            }
+          ]
+        },
+        {
+          "label": "Strength Block · 20-25 min",
+          "items": [
+            {
+              "name": "Back Squat",
+              "sub": "4 sets × 5 reps · ~185-195 lbs",
+              "rest": 120,
+              "detail": "Back to your real working weight based on the 215 lb 5-rep max. Full depth, controlled tempo. You've got a PM ride today too, so don't grind out ugly reps chasing extra weight."
+            },
+            {
+              "name": "Landmine Press",
+              "sub": "3 sets × 8 reps/side",
+              "rest": 75,
+              "detail": "One end of a barbell wedged into a landmine attachment or corner, press the free end up and forward from shoulder height. Fixed pivot point is easier on the shoulders than a straight overhead press."
+            }
+          ]
+        },
+        {
+          "label": "Core Block · 10 min — Fresh Combo",
+          "items": [
+            {
+              "name": "Weighted Side Bend (DB)",
+              "sub": "3 sets × 12 reps/side",
+              "rest": 20,
+              "detail": "Standing, dumbbell in one hand, bend directly sideways at the waist and return to upright. Burn/definition focused for the obliques."
+            },
+            {
+              "name": "Pallof Press to Overhead Reach",
+              "sub": "3 sets × 10 reps/side",
+              "rest": 30,
+              "detail": "Cable or band anti-rotation press out in front of your chest, then extend all the way overhead before returning. Combines stability work with a strength/mobility element."
+            },
+            {
+              "name": "Weighted Reverse Crunch",
+              "sub": "3 sets × 15 reps",
+              "rest": 20,
+              "detail": "Lying on your back holding a light dumbbell between your feet or ankles, curl your hips off the ground bringing knees toward your chest."
+            }
+          ]
+        },
+        {
+          "label": "5-Min Max Finisher",
+          "items": [
+            {
+              "name": "Man Makers",
+              "sub": "Max reps in 5 minutes",
+              "rest": null,
+              "detail": "Holding a pair of dumbbells: push-up, row one DB then the other, jump/step feet up to hands into a squat, stand up curling the DBs to your shoulders and pressing overhead, then lower back down — that's one rep. Hits nearly every muscle group per rep, so this stays short (5 min) since you're riding after."
+            }
+          ]
+        },
+        {
+          "label": "Cooldown · 5 min",
+          "items": [
+            {
+              "name": "Quad, hip flexor, chest stretch",
+              "sub": "Hold each 30-45s",
+              "detail": "Standing quad stretch, kneeling hip flexor stretch, doorway chest stretch."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
